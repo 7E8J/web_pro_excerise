@@ -1,0 +1,15 @@
+{
+  "name": "youblog",
+  "version": "1.0.0",
+  "description": "#### 1. New Project ให้นักศึกษาสร้างโปรเจคชื่อ `youblog` โดยพิมพ์คำสั่งเหล่านี้ลงใน Terminal/Powershell ดังนี้ ``` > cd Desktop > mkdir youblog > cd youblog > npm init ``` ในขั้นตอนการ init ให้กำหนดดังนี้ - Package name : youblog ส่วนอื่น ๆ ให้กด Enter ได้เลย",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
